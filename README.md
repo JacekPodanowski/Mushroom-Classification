@@ -1,3 +1,4 @@
 W ostatnim czasie wśród młodzieży można zaobserwować wzrost zainteresowania tematem grzybobrania. Niestety, niedoświadczeni amatorzy mogą pomylić się podczas klasyfikacji znalezionych grzybów, co może nieść ze sobą katastrofalne skutki. Dlatego zdecydowałem się przeprowadzić badania w zakresie klasyfikacji grzybów przy użyciu różnych algorytmów uczenia maszynowego.
+
 [Analiza pdf](./Analiza_Grzybów.pdf)
 
